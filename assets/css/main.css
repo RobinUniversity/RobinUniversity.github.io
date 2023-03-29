@@ -3420,7 +3420,6 @@ section, summary, time, mark, audio, video {
 	
 				#header.alt.style3 .logo strong {
 					color: #ec8d81;
-					
 				}
 	
 				#header.alt.style4 .logo strong {
@@ -3648,14 +3647,13 @@ section, summary, time, mark, audio, video {
 			}
 	
 			#banner.style2:after {
+				background-image: url("../../images/cavehill.jpg");
 				background-color: #8d82c4;
 			}
 	
 			#banner.style3:after {
 				background-image: url("../../images/belfbikemap.jpg");
 				background-color: #ec8d81;
-				/* padding-bottom: 50em; */
-				/* margin-bottom: 50em; */
 			}
 	
 			#banner.style4:after {
@@ -7408,7 +7406,6 @@ input, select, textarea {
 
 			#header.alt.style3 .logo strong {
 				color: #ec8d81;
-				
 			}
 
 			#header.alt.style4 .logo strong {
@@ -7636,14 +7633,15 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
+			background-image: url("../../images/cavehill.jpg");
 			background-color: #8d82c4;
+			background-size: cover;
+			background-repeat: no-repeat;
 		}
 
 		#banner.style3:after {
 			background-image: url("../../images/belfbikemap.jpg");
 			background-color: #ec8d81;
-			/* padding-bottom: 50em; */
-			/* margin-bottom: 50em; */
 		}
 
 		#banner.style4:after {
